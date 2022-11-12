@@ -1,0 +1,5 @@
+*.meta
+*.unity 
+*.prefab
+*.nn
+*asset
